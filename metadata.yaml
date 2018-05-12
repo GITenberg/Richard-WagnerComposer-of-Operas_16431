@@ -1,0 +1,28 @@
+_repo: Richard-WagnerComposer-of-Operas_16431
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Runciman, John F.
+    birthdate: 1866
+    deathdate: 1916
+    gutenberg_agent_id: '5093'
+    url: http://www.gutenberg.org/2009/agents/5093
+description: ''
+gutenberg_bookshelf: Opera
+gutenberg_issued: '2005-08-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16431'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'ML'
+- !lcsh 'Wagner, Richard, 1813-1883. Operas'
+- !lcsh 'Wagner, Richard, 1813-1883'
+title: Richard Wagner, Composer of Operas
+url: http://www.gutenberg.org/ebooks/16431
